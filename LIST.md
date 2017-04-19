@@ -167,6 +167,10 @@
 
 * Storm of Steel - *Ernst Junger*
   1. [Amazon](https://www.amazon.com/dp/0142437905)
+  2. Youtube - robot voice
+  *  [Youtube Part 1](https://www.youtube.com/watch?v=4FpeHZFTweM) 
+  *  [Youtube Part 2](https://www.youtube.com/watch?v=8ulxJU0Y410) 
+  *  [Youtube Part 3](https://www.youtube.com/watch?v=gCfThAzW9Dk) 
 
 * Tribes: We Need You to Lead Us - *Seth Godin*
   1. [Amazon](https://www.amazon.com/dp/1591842336)
@@ -176,6 +180,7 @@
 
 * Rich Dad Poor Dad - *Robert Kiyosaki*
   1. [Amazon](https://www.amazon.com/dp/1612680011)
+  2. [Youtube](https://www.youtube.com/watch?v=JG2YdzC5m4o)
 
 * The Art of Learning - *Josh Waitzkin*
   1. [Amazon](https://www.amazon.com/dp/0743277465)
