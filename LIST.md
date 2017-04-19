@@ -7,6 +7,7 @@
 
 * Managing Oneself - *Peter Drucker*
   1. [Amazon](https://www.amazon.com/dp/142212312X/)
+  2. [PDF](http://academic.udayton.edu/LawrenceUlrich/LeaderArticles/Drucker%20Managing%20Oneself.pdf)
 
 * The Selfish Gene - *Richard Dawkins*
   1. [Amazon](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606/)
